@@ -1,3 +1,11 @@
+---
+type: article
+tags: c语言
+title: C语言笔记
+---
+
+
+
 # C语言笔记
 
 ## 1.c语言基本格式
